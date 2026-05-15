@@ -103,22 +103,12 @@ CONCATENATEX(
 
 ## 💡 Key Insights
 
-- **Technology** is the highest-selling category at ~$827K (36.6% of total sales)
-- **Office Supplies** and **Furniture** follow at ~$729K and ~$705K respectively
-- Sales show a **consistent upward trend** from 2015 to 2018
-- **Standard Class** is the most used shipping method by a significant margin
-- The **Sales Pulse gauge** shows current performance at $2.26M against a $2.5M target — 90% of goal
+- Technology leads at $827K (36.6% of total sales)
+- Phones & Chairs are the top performing sub-categories
+- Sales grew consistently from 2015 to 2018, peaking at $0.7M
+- Standard Class dominates shipments at ~6,000 orders
+- Sales Pulse Gauge shows $2.26M against a $3M maximum — 75% of target
 
----
-
-## 🚀 How to Use
-
-1. Download `StorePulse.pbix`
-2. Open with **Power BI Desktop** (free download at [powerbi.microsoft.com](https://powerbi.microsoft.com))
-3. If prompted, refresh the data source and point it to `dataset/superstore_sales.csv`
-4. Use the slicers on the dashboard to filter by Region, Category, Segment, or Year
-
----
 
 ## 🛠️ Tools & Technologies
 
